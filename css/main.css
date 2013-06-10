@@ -1,0 +1,33 @@
+/* -------------------------------------------------------------- 
+  
+   Purrry.com
+   * Version:   1 (29 March 2009)
+   * Creator:	kevin@kjdavies.com
+   
+-------------------------------------------------------------- */
+/* General Type Styles */
+
+/* The percentage is of 16px (0.75 * 16px = 12px).
+
+Trying 18px as the baseline verticle rhythm
+
+ */
+
+
+body					{ background-color: #ffffff; margin: 0px; text-align: left; font-size: 90%; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;}
+
+
+body, p, h1, a			{ color: #323232; }
+p						{ margin:0px }
+
+.container				{ width:390px; margin-top:36px;margin-bottom:36px;}
+
+h1.replace 				{ width: 388px; height: 29px; background: url("../images/title_v02.jpg") no-repeat; text-indent: -9999px;  }  
+
+
+img						{ text-align: center; margin-left: auto; margin-right: auto;margin-top: 18px	}
+		
+a						{ color:#2369a6; text-decoration: none; border-bottom: 1px solid #bcbcbc }
+a:hover					{ color:#2369a6; border-bottom: 1px solid #5c5c5c;}
+
+.contact				{ margin-top:54px; text-align: center;}

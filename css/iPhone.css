@@ -1,0 +1,48 @@
+/* -------------------------------------------------------------- 
+  
+   Purrry.com
+   * Version:   1 (20 March 2009)
+   * Creator:	kevin@kjdavies.com
+   
+-------------------------------------------------------------- */
+/* General Type Styles */
+
+/* The percentage is of 16px (0.75 * 16px = 12px). */
+
+
+body					{ background-color: #ffffff; margin: 0px; text-align: left; font-size: 100%; font-family: Georgia, "Times New Roman", Times, serif;}
+
+body, p, h1, a			{ color: #767788; }
+
+.container				{ width:600px; margin-top:50px;margin-bottom:100px; }
+
+/* h1						{ color: #af1d5f;line-height: 110%; margin-bottom: 30px} */
+h1						{ color: #767788;line-height: 110%; margin-bottom: 30px}
+
+
+
+img						{ text-align: center; margin-left: auto; margin-right: auto	}
+
+
+a						{ color: #6669ac ; text-decoration: none; border-bottom: 1px solid #b7b7cb}
+
+a:hover					{ border-bottom: 1px solid #6669ac;}
+
+/*
+a:hover, 
+a:active				{ color: #d38888 }
+*/
+
+a:hover, 
+a:active				{ color: #6669ac }
+
+
+a.noline,
+a.noline:hover			{ border-bottom: 0px }
+
+
+.hidden					{ visibility: hidden}
+
+div.download 			{ visibility: hidden }
+
+.tel					{ margin: 36px 0px 36px 0px} 				
